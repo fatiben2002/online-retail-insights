@@ -1,4 +1,7 @@
-# E-commerce Sales Dashboard: From messy retail transactions to actionable insights — an end-to-end data project with Python + Power BI
+# 🛍️ E-commerce Sales Dashboard
+
+### From messy retail transactions to actionable insights — an end-to-end data project with Python + Power BI
+---
 
 This project demonstrates how to **clean, prepare, and analyze e-commerce transaction data** using **Python (Pandas)** and build an **interactive dashboard in Power BI** to track revenues, cancellations, and product/category insights.
 
