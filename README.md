@@ -31,8 +31,8 @@ The image below shows the structure of the data and it contains 541909 data entr
 
 <img width="1223" height="431" alt="image" src="https://github.com/user-attachments/assets/1700740d-4efe-4ece-aa6a-41afe9f9435b" />
 
-## 🚀 Key Features
-- 🧽 **Data Cleaning & Preparation**
+##  Key Features
+-  **Data Cleaning & Preparation**
   - Handle missing `CustomerID` and `Description`
   - Replace `NaN` descriptions with `"NO DESC"`
   - Convert IDs to integers with nullable support
@@ -42,7 +42,7 @@ The image below shows the structure of the data and it contains 541909 data entr
   - Drop the rows not concerning transactions
   - Categorize the data descriptions
 
-- 📊 **Dashboard and Insights**
+-  **Dashboard and Insights**
   The dashboard created here is only based on the figures and rates I wanted to show, however in real world the dashboard needs to cater more to the stakeholders' needs.
   - **KPIs:** Total Revenue, Number of Orders, Cancellation Rate
   - **Trends:** Daily revenues and orders over time
@@ -51,7 +51,7 @@ The image below shows the structure of the data and it contains 541909 data entr
 
 ---
 
-## 📊 Dashboard, Insights and recommendations
+##  Dashboard, Insights and recommendations
 - **Dashboard Review**: It is important to mention that in this case that I could not use all the data from the file, since I didn't have enough space in my laptop. I was only able to use data from 4/11/2011 to 9/12/2011.
 
 The global dashboard: 
@@ -78,7 +78,7 @@ In the United Kingdom only:
   - **Study the competition**: This would help the company see the **prices proposed by competitors** for the same products as well as the **different products proposed**. 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 - **Python**: pandas, numpy, matplotlib (data cleaning & prep), os and kagglehub (for data importing)
 - **Power BI**: dashboard building
 - **Git/GitHub**: version control and portfolio showcase
